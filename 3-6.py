@@ -1,0 +1,11 @@
+people=['mom','dad','sister']
+print("Now there will be a larger dining-table.")
+people.insert(0,'brother')
+people.insert(2,'friend')
+people.append('teacher')
+print(people[0])
+print(people[1])
+print(people[2])
+print(people[3])
+print(people[4])
+print(people[5])
