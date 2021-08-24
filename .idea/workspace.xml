@@ -2,66 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a7fd82a-8416-4c09-9041-52295453518b" name="Default Changelist" comment="Revert &quot;1&quot;&#10;&#10;This reverts commit e9d1d0b9">
-      <change afterPath="$PROJECT_DIR$/chap7/7-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap7/7-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap7/7-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap7/7-10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap7/7-4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap7/7-5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap7/7-6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap7/7-7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap7/7-8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap7/7-9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Answers-to-Python-Crash-Course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Answers-to-Python-Crash-Course.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap2/2-1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap2/2-2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap2/2-3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap2/2-4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap2/2-5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-6.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap2/2-6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-7.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap2/2-7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-8.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap2/2-8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-9.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap2/2-9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap3/3-1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-10.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap3/3-10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap3/3-2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap3/3-3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap3/3-4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap3/3-5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-6.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap3/3-6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-7.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap3/3-7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-8.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap3/3-8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-9.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap3/3-9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap4/4-1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-10.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap4/4-10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-11.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap4/4-11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-12.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap4/4-12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-13.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap4/4-13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap4/4-2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap4/4-3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap4/4-4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap4/4-5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-6.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap4/4-6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-7.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap4/4-7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-8.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap4/4-8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-9.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap4/4-9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap5/5-1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5-10.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap5/5-10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5-11.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap5/5-11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap5/5-2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap5/5-3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap5/5-4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap5/5-5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5-6.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap5/5-6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5-7.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap5/5-7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5-8.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap5/5-8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5-9.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap5/5-9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap6/6-1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6-10.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap6/6-10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6-11.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap6/6-11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap6/6-2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap6/6-3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap6/6-4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap6/6-5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6-6.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap6/6-6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6-7.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap6/6-7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6-8.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap6/6-8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6-9.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap6/6-9.py" afterDir="false" />
     </list>
     <list id="7d1fc253-3df3-440f-b9a0-8741dd058ad1" name="Revert &quot;1&quot;" comment="Revert &quot;1&quot;&#10;&#10;This reverts commit b8183e06" />
     <list id="52577b08-7bdc-4373-bb84-a5407ca8197e" name="Revert: 1" comment="" />
@@ -75,59 +26,8 @@
     <favorites_list name="Answers-to-Python-Crash-Course" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chap6/6-6.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chap6/6-7.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chap6/6-8.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chap6/6-10.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chap6/6-11.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chap7/7-1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="28">
-              <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chap7/7-2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chap7/7-3.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -137,10 +37,73 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chap7/7-4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="40" selection-start-line="1" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chap7/7-5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chap7/7-6.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chap7/7-7.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chap7/7-8.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="42" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chap7/7-9.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chap7/7-10.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chap6/6-9.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -149,7 +112,7 @@
         <entry file="file://$PROJECT_DIR$/chap3/3-10.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -177,14 +140,20 @@
         <option value="$PROJECT_DIR$/7-2.py" />
         <option value="$PROJECT_DIR$/7-3.py" />
         <option value="$PROJECT_DIR$/chap7/7-3.py" />
+        <option value="$PROJECT_DIR$/chap7/7-4.py" />
+        <option value="$PROJECT_DIR$/chap7/7-5.py" />
+        <option value="$PROJECT_DIR$/chap7/7-6.py" />
+        <option value="$PROJECT_DIR$/chap7/7-7.py" />
+        <option value="$PROJECT_DIR$/chap7/7-8.py" />
+        <option value="$PROJECT_DIR$/chap7/7-9.py" />
+        <option value="$PROJECT_DIR$/chap7/7-10.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="276" />
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
-    <option name="width" value="996" />
-    <option name="height" value="822" />
+    <option name="width" value="1440" />
+    <option name="height" value="812" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -194,6 +163,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -210,7 +180,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -243,71 +212,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.7-3">
-    <configuration name="2-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Answers-to-Python-Crash-Course" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chap2/2-1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="7-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Answers-to-Python-Crash-Course" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chap7/7-1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="7-2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Answers-to-Python-Crash-Course" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chap7/7-2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="7-3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.7-10">
+    <configuration name="7-10" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Answers-to-Python-Crash-Course" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -319,7 +225,91 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chap7/7-3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chap7/7-10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="7-6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Answers-to-Python-Crash-Course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chap7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chap7/7-6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="7-7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Answers-to-Python-Crash-Course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chap7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chap7/7-7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="7-8" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Answers-to-Python-Crash-Course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chap7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chap7/7-8.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="7-9" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Answers-to-Python-Crash-Course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chap7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chap7/7-9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -330,10 +320,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.7-3" />
-        <item itemvalue="Python.7-2" />
-        <item itemvalue="Python.7-1" />
-        <item itemvalue="Python.2-1" />
+        <item itemvalue="Python.7-10" />
+        <item itemvalue="Python.7-9" />
+        <item itemvalue="Python.7-8" />
+        <item itemvalue="Python.7-7" />
+        <item itemvalue="Python.7-6" />
       </list>
     </recent_temporary>
   </component>
@@ -374,27 +365,45 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="812" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49462366" visible="true" weight="0.24947146" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49462366" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="1" sideWeight="0.50612247" side_tool="true" weight="0.36307693" />
-      <window_info id="Favorites" order="2" sideWeight="0.50537634" side_tool="true" visible="true" weight="0.24947146" />
+      <window_info id="Favorites" order="2" sideWeight="0.50537634" side_tool="true" weight="0.24947146" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49964765" visible="true" weight="0.32771084" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989429" visible="true" weight="0.37777779" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.6349542" weight="0.28915662" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4974359" weight="0.32876712" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5003524" side_tool="true" visible="true" weight="0.32771084" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49612403" weight="0.2939759" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5010571" side_tool="true" weight="0.32771084" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.4994872" weight="0.32876712" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49462366" visible="true" weight="0.24947146" />
+      <window_info id="Structure" order="1" sideWeight="0.50612247" side_tool="true" weight="0.36307693" />
+      <window_info id="Favorites" order="2" sideWeight="0.50537634" side_tool="true" weight="0.24947146" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989429" visible="true" weight="0.32771084" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.6349542" weight="0.28915662" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49612403" weight="0.2939759" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5010571" side_tool="true" visible="true" weight="0.32771084" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.4994872" weight="0.32876712" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
@@ -498,31 +507,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chap3/3-10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chap6/6-9.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chap7/7-1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
+        <state relative-caret-position="15">
           <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chap7/7-2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
+        <state relative-caret-position="60">
           <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap6/6-9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap3/3-10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
@@ -530,6 +539,55 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="35" selection-start-column="35" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap7/7-4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="40" selection-start-line="1" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap7/7-6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap7/7-7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap7/7-5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap7/7-8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="42" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap7/7-9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap7/7-10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
         </state>
       </provider>
     </entry>
